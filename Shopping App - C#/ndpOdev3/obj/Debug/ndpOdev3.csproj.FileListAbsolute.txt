@@ -1,0 +1,9 @@
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\bin\Debug\ndpOdev3.exe.config
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\bin\Debug\ndpOdev3.exe
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\bin\Debug\ndpOdev3.pdb
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.csprojAssemblyReference.cache
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.Form1.resources
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.Properties.Resources.resources
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.csproj.GenerateResource.cache
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.exe
+C:\Users\talha\source\repos\ndpOdev3\ndpOdev3\obj\Debug\ndpOdev3.pdb
