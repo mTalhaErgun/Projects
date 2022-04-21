@@ -1,0 +1,9 @@
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\bin\Debug\G191210002_Proje.exe.config
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\bin\Debug\G191210002_Proje.exe
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\bin\Debug\G191210002_Proje.pdb
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\obj\Debug\G191210002_Proje.csprojAssemblyReference.cache
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\obj\Debug\G191210002_Proje.Form1.resources
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\obj\Debug\G191210002_Proje.Properties.Resources.resources
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\obj\Debug\G191210002_Proje.csproj.GenerateResource.cache
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\obj\Debug\G191210002_Proje.exe
+C:\Users\talha\source\repos\G191210002_Proje\G191210002_Proje\obj\Debug\G191210002_Proje.pdb
